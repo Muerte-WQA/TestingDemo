@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="TestingDemo.AcceptanceTests/TestingDemo.AcceptanceTests.csproj" Id="00f8ffb4-7022-4fcc-b113-f66ed87fd411" />
+  <Project Path="TestingDemo.Benchmarks/TestingDemo.Benchmarks.csproj" Id="8b227776-809d-4a51-9221-1b290d666ce7" />
+  <Project Path="TestingDemo.Core/TestingDemo.Core.csproj" Id="b6738c03-8573-4781-8ba2-d958abae5ad2" />
+  <Project Path="TestingDemo.FunctionalTests/TestingDemo.FunctionalTests.csproj" Id="d78bd327-1ae6-4eb4-badb-dd4e71b6c298" />
+  <Project Path="TestingDemo.IntegrationTests/TestingDemo.IntegrationTests.csproj" Id="63a689f9-0985-4621-95cf-cf2332052f7c" />
+  <Project Path="TestingDemo.PerformanceTests/TestingDemo.PerformanceTests.csproj" Id="6b9e52bb-aec2-4e68-82f7-c8357f62c164" />
+  <Project Path="TestingDemo.RegressionTests/TestingDemo.RegressionTests.csproj" Id="aa7207fb-410a-469b-8895-3f8ee82da18e" />
+  <Project Path="TestingDemo.SecurityTests/TestingDemo.SecurityTests.csproj" Id="63089068-0ba9-4249-b1f0-18126a622dd8" />
+  <Project Path="TestingDemo.SystemTests/TestingDemo.SystemTests.csproj" Id="3886f41b-bef7-4cf8-baac-dffd92d45ad3" />
+  <Project Path="TestingDemo.UnitTests/TestingDemo.UnitTests.csproj" Id="b01211be-40b7-48b2-9f30-3aaa9cffa4af" />
+</Solution>
